@@ -1,6 +1,6 @@
 ## Kartik Sirohi
 
-**Aura Programmer and Professionally Unemployed Neovim User**  
+**Aura Coder and Professionally Unemployed Neovim User**  
 **AuraCorps**  
 *Metropolis, Earth-616*
 

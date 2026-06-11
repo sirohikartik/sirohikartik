@@ -1,3 +1,1 @@
-## Kartik Sirohi
 
-**Aura Coder**  
